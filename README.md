@@ -1,7 +1,5 @@
 # Participatory Platforms and Social Network Analysis
 
-Web of the Master in Data and Design - ELISAVA: http://graphic.elisava.net/en/madd
-
 ## Course Description
 Social networks and participatory platforms on the Internet have given rise to new forms of relationship between human beings. In addition, the availability of big data repositories of digital traces about these interactions makes it possible to investigate new social phenomena through computational approaches. This course will cover theory and methods of network science and digital methods tools to provide students with key resources to develop a project based on social network analysis techniques.
 
