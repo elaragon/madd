@@ -18,10 +18,10 @@ address the research question with techniques from social network analysis and v
 The main objective of this course is to discover how easy it is to collect, analyze and visualize data from participatory platforms and social networks, while also realizing how difficult it is to do so in a scientifically rigorous manner. For this reason, students will acquire a theoretical basis in network science for ensuring the correct application of digital methods. It will also be an objective to incorporate knowledge from other courses in Data and Design to enrich the quarterly project.
 
 ## Schedule
-1. Friday, 10.1.2020 / 7,15 - 9,15pm - Introduction to Computational Social Science and Network Science: Gephi I
-2. Friday, 17.1.2020 / 7,15 - 9,15pm - Community Detection Methods and Centrality Measures: Gephi II
-3. Friday, 24.1.2020 / 7,15 - 9,15pm - Digital Methods Tools: DMI-TCAT, Netvizz, table2net, RAWGraphs
-4. Friday, 07.2.2020 / 7,15 - 9,15pm - Participatory Platforms: Wikipedia, Decidim
+1. Friday, 10.1.2020 / 7,15 - 9,15pm - Introduction to Computational Social Science and Network Science
+2. Friday, 17.1.2020 / 7,15 - 9,15pm - Community Detection Methods and Centrality Measures
+3. Friday, 24.1.2020 / 7,15 - 9,15pm - Digital Methods Tools: Gephi, DMI-TCAT, RAWGraphs
+4. Friday, 07.2.2020 / 7,15 - 9,15pm - Participatory Platforms: Decidim, table2net
 5. Friday, 14.2.2020 / 7,15 - 9,15pm - Work on the Quartely Project (hands-on session)
 6. Friday, 28.2.2020 / 7,15 - 9,15pm - Work on the Quartely Project (hands-on session)
 7. Friday, 06.3.2020 / 7,15 - 9,15pm - Work on the Quartely Project (hands-on session)
