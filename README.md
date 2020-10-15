@@ -22,7 +22,7 @@ The main objective of this course is to discover how easy it is to collect, anal
 2. Thursday, 22.10.2020 / 7,15 - 9,15pm - Community Detection Methods and Centrality Measures: Gephi II
 3. Thursday, 29.10.2020 / 7,15 - 9,15pm - Digital Methods Tools: DMI-TCAT, Netvizz, table2net, RAWGraphs
 4. Thursday, 05.11.2020 / 7,15 - 9,15pm - Technopolitical networks: The case of Decidim
-5. Thursday, 20.11.2020 / 7,15 - 9,15pm - Work on the Quartely Project (hands-on session)
+5. Friday, 20.11.2020 / 7,15 - 9,15pm - Work on the Quartely Project (hands-on session)
 6. Thursday, 26.11.2020 / 7,15 - 9,15pm - Work on the Quartely Project (hands-on session)
 7. Thursday, 03.12.2020 / 7,15 - 9,15pm - Work on the Quartely Project (hands-on session)
 8. Thursday, 10.12.2020 / 7,15 - 9,15pm - Showcase and Evaluation
